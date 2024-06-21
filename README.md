@@ -1,9 +1,9 @@
-# Dutch-Treat
-This application allows multiple people to split the bill.
+# DutchTreat
+This is an application for splitting costs.
 
 # How to run this application
 ### Setup your environment
 * pip install Pillow
-### Enjoy examination
+### Enjoy calculation
 * cd src
 * python dutch.py
