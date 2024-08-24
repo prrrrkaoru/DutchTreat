@@ -14,7 +14,7 @@ class Treat():
         self.createWidgets()
     
     def createWidgets(self):
-        self.im = ImageTk.PhotoImage(file="/Users/kaoru/Downloads/python_lesson/dutch/title.png")
+        self.im = ImageTk.PhotoImage(file="../data/title.png")
 
         self.frame = tkinter.Frame(
             self.master,
